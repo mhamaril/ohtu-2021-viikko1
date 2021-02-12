@@ -95,4 +95,4 @@ max-line-length=110
 max-nested-blocks=2
 [DESIGN]
 max-statements=20
-max-complexity=3
+max-complexity=4
